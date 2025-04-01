@@ -1,0 +1,15 @@
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.AssemblyInfoInputs.cache
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.AssemblyInfo.cs
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.csproj.CoreCompileInputs.cache
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.sourcelink.json
+E:\coding\BaekJoon_CodingTest_CShop\bin\Debug\net8.0\BaekJoon_codingTest.exe
+E:\coding\BaekJoon_CodingTest_CShop\bin\Debug\net8.0\BaekJoon_codingTest.deps.json
+E:\coding\BaekJoon_CodingTest_CShop\bin\Debug\net8.0\BaekJoon_codingTest.runtimeconfig.json
+E:\coding\BaekJoon_CodingTest_CShop\bin\Debug\net8.0\BaekJoon_codingTest.dll
+E:\coding\BaekJoon_CodingTest_CShop\bin\Debug\net8.0\BaekJoon_codingTest.pdb
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.dll
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\refint\BaekJoon_codingTest.dll
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.pdb
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\BaekJoon_codingTest.genruntimeconfig.cache
+E:\coding\BaekJoon_CodingTest_CShop\obj\Debug\net8.0\ref\BaekJoon_codingTest.dll
